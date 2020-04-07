@@ -7,5 +7,5 @@ SimpleMenu is a very simple menu that will help you get started in making a mod 
 # Requirements
 This code isn't a program but just some text. You will need to use Unity 3D or dnSpy to use the code. If you use Unity 3D then just create a new C# script and add the code into it.
 
-- Unity 3D
-- dnSpy
+- You can find dnSpy here: https://github.com/0xd4d/dnSpy
+- You can find Unity here: https://unity.com/
